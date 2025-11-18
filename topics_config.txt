@@ -1,0 +1,83 @@
+[include]
+<ОБЩИЙ:1>
+работа
+вакансия
+требуется
+находим
+ищем
+ищемся
+
+<АНАЛИТИКА:2>
+аналитик
+analyst
+data analyst
+product analyst
+системный аналитик
+бизнес-аналитик
+data scientist
+sql
+python
+tableau
+метрики
+google analytics
+отчетность
+bi
+
+<ДИЗАЙН:5>
+дизайн
+design
+ui
+ux
+figma
+графический дизайнер
+иллюстратор
+веб-дизайнер
+photoshop
+illustrator
+ Sketch
+интерфейс
+ui/ux
+
+<МЕНЕДЖМЕНТ:7>
+менеджер
+manager
+руководитель
+управление
+project manager
+product manager
+team lead
+лид
+руководство
+управляющий
+директор
+координатор
+scrum master
+
+<УДАЛЕНКА:9>
+удаленка
+удалёнка
+remote
+дистанционно
+из дома
+онлайн
+удаленная работа
+удалённая работа
+work from home
+home office
+удаленно
+удалённо
+
+[exclude]
+стажёр
+стажер
+internship
+junior
+trainee
+начальный уровень
+без опыта
+опыт не требуется
+ученик
+помощник
+ассистент
+волонтер
+volunteer

@@ -1,0 +1,1 @@
+worker: python job_digest.py
